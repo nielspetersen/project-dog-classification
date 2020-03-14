@@ -19,6 +19,7 @@ ipython_config.py
 # Exlude image directories
 dogImages/
 lfw/
+test_images/
 
 # Exlude hidden Mac OS files
 .DS_STORE
